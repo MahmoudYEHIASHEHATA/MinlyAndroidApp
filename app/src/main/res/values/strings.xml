@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MinlyApp</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="no_network">Network Not Available</string>
+</resources>
