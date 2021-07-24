@@ -24,3 +24,4 @@ ui : contain the business.
 Instaliation 
 ------------
 Need Android Studio IDE.
+Change BASE_URL in class NetworkClient to your local host.
